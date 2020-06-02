@@ -5,7 +5,7 @@ This is still a work in progress, and it will be ready in no time.
 
 # Table of Content
   1. [File System Structure](01.filesystem.structure.md) : This section talks about things related to the filesystem (files, directories, partitions).
-  2. [Users & Permissions]() : Not yet
+  2. [Users & Permissions](02.users.and.permissions.md): This section talks about users/group operations, and the filesystem permissions.
   3. [Manipulate file content]() : Not yet
   4. [Find files/directories]() : Not yet
   5. [Install new software]() : Not yet
@@ -27,5 +27,6 @@ This is still a work in progress, and it will be ready in no time.
   20. [Hardware]() : Not yet
   21. [SELinux]() : Not yet
   22. [Encrypt your data]() : Not yet
-  23. [Basic image editing]() : Not yet
-  24. [Basic video editing]() : Not yet
+  23. [Secure delete of files & directories]() : Not yet
+  24. [Basic image editing]() : Not yet
+  25. [Basic video editing]() : Not yet
