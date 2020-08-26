@@ -7,7 +7,7 @@ This is still a work in progress, and it will be ready soon.
   1. [File System Structure](01.filesystem.structure.md) : This section talks about things related to the filesystem (files, directories, partitions).
   2. [Users & Permissions](02.users.and.permissions.md): This section talks about users/group operations, and the filesystem permissions.
   3. [Filter and search inside files](03.filter.search.files.contents.md) : This section talks about searching inside files, and manipulate file contents like sorting or deleting duplicate lines.
-  4. [Find files/directories]() : Not yet
+  4. [Find files/directories](04.find.files.directories.md) : This section talks about searching for files.
   5. [Interesting system files/directories]() : Not yet
   6. [File editing]() : Not yet
   7. [Install new software]() : Not yet
