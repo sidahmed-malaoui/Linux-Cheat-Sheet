@@ -9,7 +9,7 @@ This is still a work in progress, and it will be ready soon.
   3. [Filter and search inside files](03.filter.search.files.contents.md) : This section talks about searching inside files, and manipulate file contents like sorting or deleting duplicate lines.
   4. [Find files/directories](04.find.files.directories.md) : This section talks about searching for files.
   5. [Interesting system files/directories](05.interesting.system.files.directories.md) : Interesting system's files and directories and their purposes.
-  6. [File editing]() : Not yet
+  6. [Text File editing](06.text.file.editing.md) : Edit text files from the command line.
   7. [Install new software]() : Not yet
   8. [Manual]() : Not yet
   9. [Jokers]() : Not yet
